@@ -23,7 +23,9 @@ jobs:
 
           script: |
             echo "hello"
-            git clone https://github.com/waqas-muhammad77/Github-Action-Guide-for-a-ReactJS-Project.git
+            whoami
+            hostname
+            pwd
          
       
       
